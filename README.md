@@ -39,6 +39,10 @@
 
 ### 📊 Estatísticas 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fustgu&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fustgu&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="150"/>
+  <a href="https://github.com/fustgu?tab=repositories" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=fustgu&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150"/>
+  </a>
+  <a href="https://github.com/fustgu?tab=repositories" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fustgu&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="150"/>
+  </a>
 </div>
