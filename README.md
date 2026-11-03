@@ -1,9 +1,8 @@
-<h1 align="center">Olá, eu sou o Gustavo! 👋</h1>
-<h1 align="center">Hi, i'am Gustavo! 👋</h1>
+<h1 align="center">Olá, eu sou o Gustavo! | Hi, i'am Gustavo! 👋</h1>
 
 <div align="center">
   <details>
-    <summary>🇺🇸 <b>Click here for English</b></summary>
+    <summary>🇺🇸 <b>Click here to get to know me | English</b></summary>
     <br>
     🎓 Computer Science undergraduate at UFRRJ.<br>
     🌱 Transitioning from Environmental Control to Software Engineering, applying data analysis and logic to software development.<br>
@@ -11,7 +10,7 @@
   </details>
 
   <details>
-    <summary>🇧🇷 <b>Clique aqui para Português</b></summary>
+    <summary>🇧🇷 <b>Clique aqui para me conhecer | Português</b></summary>
     <br>
     🎓 Estudante de Ciência da Computação na UFRRJ.<br>
     🌱 Em transição do Controle Ambiental para a Engenharia de Software, aplicando análise de dados e pensamento lógico no desenvolvimento.<br>
