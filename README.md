@@ -1,4 +1,5 @@
 <h1 align="center">Olá, eu sou o Gustavo! 👋</h1>
+<h1 align="center">Hi, i'am Gustavo! 👋</h1>
 
 <div align="center">
   <details>
@@ -41,8 +42,5 @@
 <div align="center">
   <a href="https://github.com/fustgu?tab=repositories" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=fustgu&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150"/>
-  </a>
-  <a href="https://github.com/fustgu?tab=repositories" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fustgu&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="150"/>
   </a>
 </div>
